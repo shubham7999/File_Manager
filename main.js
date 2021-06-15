@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-let awqeewq;
+let addwqeewq;
 let arr = process.argv
 const fs = require('fs');
 const path = require('path');
